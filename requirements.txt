@@ -1,0 +1,9 @@
+requests
+opencv-python
+numpy
+pyautogui
+pywin32
+mss
+bettercam
+PyQt5
+keyboard
