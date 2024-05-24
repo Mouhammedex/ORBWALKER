@@ -1,5 +1,6 @@
 # ORBWALKER
-League OF Legend Kitting Script Vanguard Update
+# League OF Legend Kitting Script Vanguard Update
+# THX TO @dubstep3356 ON DISCORD 
 # INSTRUCTIONS
 # 1 - Start Button To Start Kitting
 # 2 - Stop Button To Stop Kitting
